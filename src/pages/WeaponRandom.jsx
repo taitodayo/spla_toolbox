@@ -7,6 +7,7 @@ function WeaponRandom() {
             </header>
 
             <main>
+                
 
                 
             </main>
